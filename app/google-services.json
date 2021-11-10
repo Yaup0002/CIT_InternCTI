@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614943358810",
+    "firebase_url": "https://fire-app-379ad.firebaseio.com",
+    "project_id": "fire-app-379ad",
+    "storage_bucket": "fire-app-379ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614943358810:android:84e3f9b1874ed10187fd63",
+        "android_client_info": {
+          "package_name": "com.unlock.cit_intern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614943358810-s2s15sc6h4eg6m4t08k2hhu1g8rl6bv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2bCZQG8GY2Ez0PmkYhrn-7-tsvNqgcMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614943358810-s2s15sc6h4eg6m4t08k2hhu1g8rl6bv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
